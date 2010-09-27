@@ -1,0 +1,1 @@
+This project is based on an *"article":http://visualstudiomagazine.com/Articles/2005/05/01/Create-a-NET-Agent.aspx?Page=1* Luther Miller wrote for Visual Studio Magazine in 2005 titled, "Create a .NET Agent". In this article Luther illustrated how to create a framework for a dynamically configurable job scheduler and notification service.
